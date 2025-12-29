@@ -1,0 +1,8 @@
+{
+  "name": "Copy of AI-CivicEye",
+  "description": "An AI-powered civic issue reporting system that uses Gemini to analyze photos of potholes, garbage, and leaks to streamline city maintenance.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ]
+}
